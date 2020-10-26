@@ -12,10 +12,11 @@ I would create a **for** loop that checks whether the user's successful login at
 There would have to be a count of irresponsible behavior for each user that relates to the amount of times they logged in more than they logged out for a given day.
 I coul duse the .append() data structure, using this could keep track of the days where login>logout.
 ###### Step 3
+**def glitch()** - define the step as a function like step 2.
 For the System glitch step, I think it would work similarly to the encode() and decode() functions from the hangman project - since System Glitches are defined as being logout attempts being greater than login attempts, it would make sense to reverse the code for Irresponsible behavior - and define it as a new function.
 This step would follow similar code to step 2, but in reverse terms.
 ###### Step 4
 I would count the number of unique domains using '.' as the argument for what determines a new domain. 
 It would be useful to set up a count structure. Additionaly, I would have a **for** loop that iterates through a specific domain in the list of domains, and add 1 to the value of domains if it isn't the exact same as the domatin that it is being checked against.
-###### Step 5
-
+###### Additional Comments on Approach:
+Counting variables for each step would have to be different in order to iterate them through the requirements mentioned in each step (use different variable names accordingly).
