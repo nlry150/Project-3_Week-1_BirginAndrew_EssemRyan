@@ -1,4 +1,4 @@
-# Project-3_Week-1-BirginAndrew
+# Project-3_Week-1-BirginAndrew,EssemRyan
 ## SUMMARIZING MY APPROACH TO THE PROBLEM
 ###### Step 1
 For this step, I would create a system where user actions with logging in and out of the system are counted.
