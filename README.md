@@ -1,5 +1,5 @@
 # Project-3_Week-1-BirginAndrew,EssemRyan
-## SUMMARIZING MY APPROACH TO THE PROBLEM
+## SUMMARIZING OUR APPROACH TO THE PROBLEM
 ###### Step 1
 For this step, I would create a system where user actions with logging in and out of the system are counted.
 Given that the first thing I should be checking for is whether or not ligin activity is enough to warrant suspicious activities (more than 5 logins to any of the systems in a given day).
