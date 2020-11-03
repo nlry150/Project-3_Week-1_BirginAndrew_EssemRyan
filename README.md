@@ -20,3 +20,18 @@ I would count the number of unique domains using '.' as the argument for what de
 It would be useful to set up a count structure. Additionaly, I would have a **for** loop that iterates through a specific domain in the list of domains, and add 1 to the value of domains if it isn't the exact same as the domain that it is being checked against.
 ###### Additional Comments on Approach:
 Counting variables for each step would have to be different in order to iterate them through the requirements mentioned in each step (use different variable names accordingly).
+
+
+## Updates
+### November 3rd, 2020
+
+We've made progress in successfully reading the "userlog" file properly, displaying every user's email address, time and date accessed,
+their login/logout activity and the server accessed.
+
+The process was fairly simple and it was nice to look use EC8 as reference because we utilized skills very similar to it.
+
+As it pertains with proceeding with the actual bulk of the project, we are sure we'll run into some difficulties.
+If and when we face any obstacles while conducting the project, we'll make sure to list them down.
+
+We havent started coding the rest of the project, however an update with obstacles faced will be coming very soon as this project involves
+lots of time and effort on it and it won't treat us very nicely if we worked on it due date to due date.
